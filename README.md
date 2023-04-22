@@ -1,4 +1,4 @@
-###Seminario de Lenguajes Opción Python
+## Seminario de Lenguajes Opción Python
 
 El trabajo integrador para este año es desarrollar una aplicación que permite crear imágenes a partir de otras combinadas con posibilidad de agregar texto. Esta aplicación, a la que denominaremos **UNLPImage**, permitirá:
 - crear un collage con fotos o imágenes disponibles en nuestra computadora,
@@ -18,7 +18,7 @@ Para el desarrollo de la aplicación se deberá:
 - Utilizar **PySimpleGUI** para las interfaces gráficas.
 - Generar los archivos CSV que se requiera.
 
-#UNLPImage
+## UNLPImage
 El archivo principal de la aplicación deberá llamarse **unlpimage.py** la cual contará con las siguientes pantallas que describiremos más adelante:
 
 - Inicio
@@ -35,7 +35,7 @@ Las pantallas que se indican (sólo interfaz) deberán desarrollar sólo los com
 ## Inicio
 Al ejecutar la aplicación UNLPImage, la primera pantalla (**A - Inicio**), solicitará que se seleccione su perfil de una lista ya o que registre uno nuevo en caso de no existir.
  
-![Image text](https://github.com/JuanFernandez87/UNLPImage/images/fig1.png)
+![Image text](https://github.com/JuanFernandez87/UNLPImage/blob/main/images/fig1.png)
 
 Fig. 1. Ejemplo de pantalla de inicio.
 
@@ -52,7 +52,7 @@ Para el caso en que se quiera agregar un nuevo perfil por primera vez se mostrar
 ## Nuevo perfil
 En esta pantalla se deberá visualizar un formulario que permita la carga de los datos necesarios para dar de alta un perfil.
 
-![Image text](https://github.com/JuanFernandez87/UNLPImage/images/fig2.png)
+![Image text](https://github.com/JuanFernandez87/UNLPImage/blob/main/images/fig2.png)
 
 Fig. 2. Ejemplo de pantalla B - Nuevo perfil.
 
@@ -73,7 +73,7 @@ El sistema deberá almacenar los perfiles en un archivo JSON. En este archivo se
 ## Menú Principal
 En el menú principal se deberán mostrar todas las opciones que permite realizar nuestra aplicación.
 
-![Image text](https://github.com/JuanFernandez87/UNLPImage/images/fig3.png)
+![Image text](https://github.com/JuanFernandez87/UNLPImage/blob/main/images/fig3.png)
 
 Fig. 3. Ejemplo de pantalla C - Menú principal.
 
@@ -98,7 +98,7 @@ Esta opción abrirá una pantalla nueva (**E - Configuración**) donde se podrá
 
 Las configuraciones se aplican a nivel de aplicación, es decir todo los perfiles que ingresen comparten los mismos datos y cualquiera podrá editar estas opciones.
 
-![Image text](https://github.com/JuanFernandez87/UNLPImage/images/fig4.png)
+![Image text](https://github.com/JuanFernandez87/UNLPImage/blob/main/images/fig4.png)
 
 Fig. 4. Ejemplo de pantalla E - Configuración.
 
@@ -121,7 +121,7 @@ La aplicación deberá permitir agregar tags o etiquetas e identificar los metad
 
 Esta información deberá almacenarse en un **archivo CSV** que hará de base de datos todas las imágenes clasificadas.
 
-![Image text](https://github.com/JuanFernandez87/UNLPImage/images/fig5.png)
+![Image text](https://github.com/JuanFernandez87/UNLPImage/blob/main/images/fig5.png)
 
 La Fig. 5 muestra una posible visualización, donde se puede seleccionar una imagen (en este caso en un árbol de archivos y directorios) y para la misma permite la visualización de las etiquetas (si las tiene) y metadatos, con la posibilidad de agregar nuevas etiquetas y otras características a la misma.
 
