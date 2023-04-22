@@ -79,10 +79,10 @@ Fig. 3. Ejemplo de pantalla C - Menú principal.
 
 Esta pantalla debe permitir una navegación fluida entre las diferentes funcionalidades de la aplicación. Como se puede observar en la imagen (Fig. 3), dentro de este menú se deberán encontrar las siguiente opciones:
 
-	Información de perfil seleccionado: se mostrará el avatar y el nombre del perfil que se seleccionó. Y al hacer clic en la imagen, desplegará la ventana para editar el perfil (D - Editar perfil).
-	Menú de opciones: es el menú que muestra permite el acceso a las funcionalidades principales de la aplicación.
-	Configuración: botón que permite acceder a la ventana de configuración de la aplicación.
-	Ayuda: simplemente será una pantalla emergente con una breve explicación de la funcionalidad provista por la aplicación.
+- Información de perfil seleccionado: se mostrará el avatar y el nombre del perfil que se seleccionó. Y al hacer clic en la imagen, desplegará la ventana para editar el perfil (D - Editar perfil).
+- Menú de opciones: es el menú que muestra permite el acceso a las funcionalidades principales de la aplicación.
+- Configuración: botón que permite acceder a la ventana de configuración de la aplicación.
+- Ayuda: simplemente será una pantalla emergente con una breve explicación de la funcionalidad provista por la aplicación.
 
 ## Editar Perfil
 Esta pantalla despliega un formulario muy similar a la ventana de creación de un nuevo perfil (ejemplo en Fig. 2). En este caso el formulario deberá contener todos los datos del usuario seleccionado y le permitirá la edición.
