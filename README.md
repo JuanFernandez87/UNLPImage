@@ -1,10 +1,8 @@
 ## Seminario de Lenguajes Opción Python
 
-El trabajo integrador para este año es desarrollar una aplicación que permite crear imágenes a partir de otras combinadas con posibilidad de agregar texto. Esta aplicación, a la que denominaremos **UNLPImage**, permitirá:
+El trabajo es desarrollar una aplicación que permite crear imágenes a partir de otras combinadas con posibilidad de agregar texto. Esta aplicación, a la que denominaremos **UNLPImage**, permitirá:
 - crear un collage con fotos o imágenes disponibles en nuestra computadora,
 - generar un meme a través de combinación de imágenes con texto y emojis.
-
-El propósito de este trabajo es que los estudiantes puedan aplicar los conocimientos adquiridos a lo largo del curso en el desarrollo de un proyecto completo y funcional.
 
 **UNLPImage** será una aplicación de escritorio que además de generar imágenes permitirá clasificar imágenes y acceder a las imágenes almacenadas en nuestra computadora a través de información sobre las mismas.
 
